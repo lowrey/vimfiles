@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/beleg/workspace/git/ipp'
+let g:netrw_dirhist_2='/home/socrates/.vim/ftplugin/python'
+let g:netrw_dirhist_3='/home/socrates/.vim/ftplugin'
+let g:netrw_dirhist_4='/home/socrates/.vim'
+let g:netrw_dirhist_5='/home/socrates/.vim/autoload'
+let g:netrw_dirhist_6='/home/socrates/.vim'
+let g:netrw_dirhist_7='/home/socrates/.vim/ftplugin'
+let g:netrw_dirhist_8='/home/socrates/workspace/eclipse/ius/compass/WIP/compass-server/jcompass/.git'
